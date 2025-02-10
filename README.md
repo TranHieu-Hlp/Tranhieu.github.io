@@ -1,2 +1,2 @@
 # Tranhieu.github.io
-Trang web cá nhân của Hiếu
+Học cách dùng Github rất vui.
